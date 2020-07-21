@@ -10,3 +10,4 @@ function addElementToEndOfArray(arr,add){
 }
 function destructivelyAddElementToEndOfArray(arr,add){
   arr.push(add)
+}
